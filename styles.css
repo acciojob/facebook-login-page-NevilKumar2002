@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.email{
+	width:30vw;;
+	height:30px;
+	margin-bottom:20px;
+}
+.bg-container{
+	background-color:lightgrey;
+	width:100vw;
+	height:100vh;
+}
+.paragraph{
+	margin-top:-30px;
+	
+}
+.left-container{
+	width:40vw;
+	
+}
+.right-container{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	width:40vw;
+/* 	border:2px solid red; */
+	height:50vh;
+	padding:20px;
+}
+.right-button{
+/* 	padding-left:30px; */
+	display:flex;
+	justify-content:center;
+	padding-top:10px;
+	
+}
+.right-button2{
+	display:flex;
+	justify-content:center;
+	margin-left:40px;
+	background-color:blue;
+}
